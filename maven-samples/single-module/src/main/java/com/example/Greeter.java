@@ -7,6 +7,7 @@ public class Greeter {
 
   /**
    * This is a constructor.
+   Lets Build it
    */
   public Greeter() {
 
@@ -21,7 +22,7 @@ public class Greeter {
   
   public static void main(String args[]){
     
-	  System.out.println("Hello from Main Method & Hello Team good morning & welcome to the session !!!");
+	  System.out.println("Hello from Main Method , Lets build it !!!");
   }
 	
 }
