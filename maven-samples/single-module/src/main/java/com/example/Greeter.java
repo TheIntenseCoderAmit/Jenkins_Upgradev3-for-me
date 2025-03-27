@@ -22,7 +22,7 @@ public class Greeter {
   
   public static void main(String args[]){
     
-	  System.out.println("Hello from Main Method , Lets build it , Now we are doing the automation!!!");
+	  System.out.println("Hello from Main Method , we will automate the building process, Now we are doing the automation!!!");
   }
 	
 }
